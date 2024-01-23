@@ -1,0 +1,12 @@
+C:\Data\BrainWare-master\Brainware.Api.Model\bin\Debug\net6.0\Brainware.Api.Model.deps.json
+C:\Data\BrainWare-master\Brainware.Api.Model\bin\Debug\net6.0\Brainware.Api.Model.dll
+C:\Data\BrainWare-master\Brainware.Api.Model\bin\Debug\net6.0\Brainware.Api.Model.pdb
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\Brainware.Api.Model.csproj.AssemblyReference.cache
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\Brainware.Api.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\Brainware.Api.Model.AssemblyInfoInputs.cache
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\Brainware.Api.Model.AssemblyInfo.cs
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\Brainware.Api.Model.csproj.CoreCompileInputs.cache
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\Brainware.Api.Model.dll
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\refint\Brainware.Api.Model.dll
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\Brainware.Api.Model.pdb
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net6.0\ref\Brainware.Api.Model.dll
