@@ -1,0 +1,21 @@
+1/23/2024 12:17:04 AM Invalid Company Id
+1/23/2024 12:18:59 AM - Error while retrieving data for orders. Details:  System.Exception: Simulated exception
+   at Moq.Behaviors.ThrowException.Execute(Invocation invocation) in /_/src/Moq/Behaviors/ThrowException.cs:line 64
+   at Moq.MethodCall.ExecuteCore(Invocation invocation) in /_/src/Moq/MethodCall.cs:line 230
+   at Moq.Setup.Execute(Invocation invocation) in /_/src/Moq/Setup.cs:line 146
+   at Moq.FindAndExecuteMatchingSetup.Handle(Invocation invocation, Mock mock) in /_/src/Moq/Interception/InterceptionAspects.cs:line 264
+   at Moq.Mock.Moq.IInterceptor.Intercept(Invocation invocation) in /_/src/Moq/Interception/Mock.cs:line 15
+   at Moq.CastleProxyFactory.Interceptor.Intercept(IInvocation underlying) in /_/src/Moq/Interception/CastleProxyFactory.cs:line 224
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.IDatabaseProxy.ExecuteReader(String query)
+   at Web.Brainware.Api.OrderApi.GetOrdersForCompany(Int32 companyId) in C:\Data\BrainWare-master\Web\Brainware.Api\OrderApi.cs:line 71
+1/23/2024 12:19:57 AM - Error while retrieving data for orders. Details:  System.Exception: Exception while fetching data
+   at Moq.Behaviors.ThrowException.Execute(Invocation invocation) in /_/src/Moq/Behaviors/ThrowException.cs:line 64
+   at Moq.MethodCall.ExecuteCore(Invocation invocation) in /_/src/Moq/MethodCall.cs:line 230
+   at Moq.Setup.Execute(Invocation invocation) in /_/src/Moq/Setup.cs:line 146
+   at Moq.FindAndExecuteMatchingSetup.Handle(Invocation invocation, Mock mock) in /_/src/Moq/Interception/InterceptionAspects.cs:line 264
+   at Moq.Mock.Moq.IInterceptor.Intercept(Invocation invocation) in /_/src/Moq/Interception/Mock.cs:line 15
+   at Moq.CastleProxyFactory.Interceptor.Intercept(IInvocation underlying) in /_/src/Moq/Interception/CastleProxyFactory.cs:line 224
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.IDatabaseProxy.ExecuteReader(String query)
+   at Web.Brainware.Api.OrderApi.GetOrdersForCompany(Int32 companyId) in C:\Data\BrainWare-master\Web\Brainware.Api\OrderApi.cs:line 71

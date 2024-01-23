@@ -1,0 +1,5 @@
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net5.0\Brainware.Api.Model.csproj.AssemblyReference.cache
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net5.0\Brainware.Api.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net5.0\Brainware.Api.Model.AssemblyInfoInputs.cache
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net5.0\Brainware.Api.Model.AssemblyInfo.cs
+C:\Data\BrainWare-master\Brainware.Api.Model\obj\Debug\net5.0\Brainware.Api.Model.csproj.CoreCompileInputs.cache
